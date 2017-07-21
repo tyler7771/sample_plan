@@ -34,7 +34,7 @@ Ruby also has the ability for negative indexing. Negative indexing is where we c
 
 ### <a name="downcase">Downcase</a>
 
-What happens if we have a word that has some letters that are capitalized and we want all of the characters to be lowercase? In comes .downcase to save the day!
+What happens if we have a word that has some letters that are capitalized and we want all of the characters to be lowercase? In comes downcase to save the day!
 
 ```ruby
 "Hello World".downcase # => hello world
@@ -44,7 +44,7 @@ What happens if we have a word that has some letters that are capitalized and we
 
 ### <a name="downcase">Upcase</a>
 
-Now we have a string that's all lowercase, but now we want it in all caps! Let's look to our friend .upcase!
+Now we have a string that's all lowercase, but now we want it in all caps! Let's look to our friend upcase!
 
 ```ruby
 "Hello World".upcase # => HELLO WORD

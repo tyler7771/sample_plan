@@ -1,4 +1,4 @@
-## Problems Week 2 Day 3
+## Problems Week 3 Day 3
 
 Solve the problems! The problem is correct if each case prints out true.
 

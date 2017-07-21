@@ -2,7 +2,7 @@
 
 ### Debugging Problems
 
-Debugg the problems.
+Debug the problems.
 
 ```ruby
 def first_one_hundred

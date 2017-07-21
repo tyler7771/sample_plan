@@ -24,9 +24,13 @@ puts first_one_hundred
 Solve the problems! The problem is correct if each case prints out true.
 
 ```ruby
-# Write a method valley_finder(arr) that takes an array of numbers. Return an array of valley indexes.
+# Write a method valley_finder(arr) that takes an array of numbers.  
+# Return an array of valley indexes.
 
-# A valley is when a number is less than numbers on either side of it. If the number is the first number it's less than the number on it's right. If the number is the last number it's less than the number on it's left.
+# A valley is when a number is less than numbers on either side of  
+# it. If the number is the first number it's less than the number  
+# on it's right. If the number is the last number it's less than  
+# the number on it's left.  
 
 # Hint can be solved with one loop
 

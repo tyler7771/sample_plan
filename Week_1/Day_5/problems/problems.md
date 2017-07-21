@@ -3,7 +3,8 @@
 Solve the problems! The problem is correct if each case prints out true.
 
 ```ruby
-# Write a function `luckySevens(max)` that returns an array of all #numbers up to max (inclusive) that are divisible by 7.
+# Write a function `luckySevens(max)` that returns an array of all  
+# numbers up to max (inclusive) that are divisible by 7.
 
 def luckySevens(max)
   # Your code here

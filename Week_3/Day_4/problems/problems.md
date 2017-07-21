@@ -3,7 +3,9 @@
 Solve the problems! The problem is correct if each case prints out true.
 
 ```ruby
-# Write a method sum(arr) that takes an Array and sums all the elements in the array. First right an iterative version and then a recursive version.
+# Write a method sum(arr) that takes an Array and sums all the  
+# elements in the array. First right an iterative version and then  
+# a recursive version.
 
 def sum(arr)
   # Put code here

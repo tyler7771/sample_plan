@@ -3,7 +3,8 @@
 Solve the problems! The problem is correct if each case prints out true.
 
 ```ruby
-# Write a method my_reverse(str) that takes a string and reverses the string without using ruby's built in reverse method
+# Write a method my_reverse(str) that takes a string and reverses  
+# the string without using ruby's built in reverse method
 
 def my_reverse(str)
   # Your code here

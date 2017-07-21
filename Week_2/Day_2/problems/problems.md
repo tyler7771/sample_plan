@@ -3,7 +3,8 @@
 Solve the problems! The problem is correct if each case prints out true.
 
 ```ruby
-# Write a method pug_builder(name, color, toys) that takes a name, a color, and an array of toys. It creates an hash.
+# Write a method pug_builder(name, color, toys) that takes a name, a  
+# color, and an array of toys. It creates an hash.
 
 #ex. pug_builder('Jake', 'Brown', ['Bone', 'Stuffed Monkey']) => {name: 'Jake', color: 'Brown', toys: ['Bone', 'Stuffed Monkey']}
 

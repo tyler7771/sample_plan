@@ -3,7 +3,9 @@
 Solve the problems! The problem is correct if each case prints out true.
 
 ```ruby
-# Write a method my_map(arr, &proc) that takes an array and a proc. my_map returns a new array where each element is the element in that index from the original array with the proc called on it.
+# Write a method my_map(arr, &proc) that takes an array and a proc.  
+# my_map returns a new array where each element is the element in  
+# that index from the original array with the proc called on it.
 
 class Array
   def my_map(&prc)

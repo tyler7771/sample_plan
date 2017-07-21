@@ -3,7 +3,8 @@
 Solve the problems! The problem is correct if each case prints out true.
 
 ```ruby
-# Write a method two_dimensional_count(arr) that returns how many numbers are in the 2D array.
+# Write a method two_dimensional_count(arr) that returns how many  
+# numbers are in the 2D array.
 
 def two_dimensional_count(arr)
   # Put code here

@@ -4,13 +4,13 @@ Strings are texts. Thing of strings are words and characters. In Ruby a string i
 
 ## Methods
 * [Indexing ([])](#indexing)
-* [String.downcase] (#downcase)
-* [String.upcase] (#upcase)
-* [String.index] (#index)
-* [String.slice] (#slice)
-* [String.length] (#length)
-* []`+` (concatenation)] (#concat)
-* []'!' (bang) (#bang)
+* [String.downcase](#downcase)
+* [String.upcase](#upcase)
+* [String.index](#index)
+* [String.slice](#slice)
+* [String.length](#length)
+* [`+` (concatenation)](#concat)
+* ['!' (bang)](#bang)
 
 ### <a name="indexing">Indexing into Strings</a>
 

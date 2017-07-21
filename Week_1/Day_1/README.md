@@ -2,7 +2,7 @@
 
 ### Topics to cover
 + Administration for the class
-+ [Strings][string]
++ [Strings][strings]
 + Integers
 + Booleans and nil
 + Integer Methods

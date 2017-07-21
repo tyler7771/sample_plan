@@ -2,7 +2,9 @@
 
 ### Topics to cover
 + Administration for the class
-+ Data Types (Strings, Integers, Booleans, nil)
++ [Strings][string]
++ Integers
++ Booleans and nil
 + Integer Methods
 + String Methods
 + Logical Operators
@@ -10,3 +12,4 @@
 + [Problem Set][problems]
 
 [problems]: ./problems/problems.md
+[strings]: ./lecture_notes/strings.md

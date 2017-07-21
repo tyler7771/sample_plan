@@ -24,8 +24,7 @@ out
 Solve the problems! The problem is correct if each case prints out true.
 
 ```ruby
-# Write a method is_even?(num) that takes a number and returns true if
-# the number is even and false if the number is odd.
+# Write a method is_even?(num) that takes a number and returns true if the number is even and false if the number is odd.
 
 def is_even?(num)
   # Your code here

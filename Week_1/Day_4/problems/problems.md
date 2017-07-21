@@ -3,7 +3,7 @@
 Solve the problems! The problem is correct if each case prints out true.
 
 ```ruby
-# Write a method times_by_three(arr) that takes an array and returns # a new array where each number is multiplied by 3.
+# Write a method times_by_three(arr) that takes an array and returns a new array where each number is multiplied by 3.
 
 def times_by_three(arr)
   # Put code here
